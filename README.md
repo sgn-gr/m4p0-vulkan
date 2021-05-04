@@ -12,9 +12,9 @@
 
 
 # Beschreibung
-Beginnend mit dem heutigen Abbild des Bergs, reisen wir augenblickblich 32 Millionen Jahre zurück und bekommen die im Profil dargestellte geologische Situation zu Gesicht. Dabei wird die Landschaft so naturgetreu wie möglich animiert mit damals vorherrschendem Klima und Geräuschen der Vulkantätigkeiten, die das Erlebnis verstärken. Aus der Vogelperspektive sieht die Betrachterin bzw. der Betrachter, wie die Landschaft sich allmählich verändert: Anfängliche Urwälder verschwinden und mehrere Explosionen formen den vulkanischen Kegel. Darin füllen sich mehrmals Lavaseen, die immer wieder abkühlen. Durch weitere Jahrmillionen, die von Erschütterungen und Erosionen geprägt sind, entsteht schließlich die heutige Form des Berges. 
+Beginnend mit dem heutigen Abbild des Bergs, reisen wir augenblickblich 32 Millionen Jahre zurück und bekommen die im Profil dargestellte geologische Situation zu Gesicht. Dabei wird die Landschaft so naturgetreu wie möglich animiert mit damals vorherrschendem Klima und Geräuschen der Vulkantätigkeiten, die das Erlebnis verstärken. Aus der Vogelperspektive sieht die Betrachterin bzw. der Betrachter, wie die Landschaft sich allmählich verändert: Anfängliche Urwälder verschwinden und mehrere Explosionen formen den vulkanischen Kegel. Darin füllen sich mehrmals Lavaseen, die immer wieder abkühlen. Durch weitere Jahrmillionen, die von Erschütterungen und Erosionen geprägt sind, entsteht schließlich die heutige Form des Berges.
 
-Die Animation wurde mit Unity erstellt und liegt als 4K-Video im MP4 Format vor. 
+Die Animation wurde mit Unity erstellt und liegt als 4K-Video im MP4 Format vor.
 
 Die Entwicklung der Animation wurde beauftragt von museum4punkt0 - Teilprojekt Zentrale wissenschaftliche Projektsteuerung.
 
@@ -30,9 +30,9 @@ Weitere Informationen: www.museum4punkt0.de
 Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages.
 
 # Installation und Benutzung
-Die 3D-Animation "Entstehung des Landeskrone Vulkans" wurde mit [unity]( https://unity.com/) 2020.1.9f1 erstellt. 
+Die 3D-Animation "Entstehung des Landeskrone Vulkans" wurde mit [unity]( https://unity.com/) 2020.1.9f1 erstellt.
 
-Um den Code innerhalb von Unity zu starten bedarf es folgender zusätzlicher Komponenten. 
+Um den Code innerhalb von Unity zu starten bedarf es folgender zusätzlicher Komponenten.
 
 ## Kostenpflichtige Plugins (unity AssetStore):
 
@@ -57,7 +57,7 @@ Um den Code innerhalb von Unity zu starten bedarf es folgender zusätzlicher Kom
 9. RASCAL Skinned Mesh Collider: https://assetstore.unity.com/packages/tools/physics/rascal-skinned-mesh-collider-134833
 
 ### 2D
-	
+
 1. 2D Trees.TOP view: https://assetstore.unity.com/packages/2d/environments/2d-trees-top-view-64094
 
 ### 3D
@@ -75,11 +75,11 @@ https://assetstore.unity.com/packages/3d/environments/tropical-forest-pack-49391
 ## Kostenfreie Plugins (unity AssetStore):
 
 ### 3D
-	
+
 1. Free SpeedTrees Package: https://assetstore.unity.com/packages/3d/vegetation/speedtree/free-speedtrees-package-29170
 
 ### Essentials
-	
+
 1. Book Of The Dead: Environment https://assetstore.unity.com/packages/essentials/tutorial-projects/book-of-the-dead-environment-121175
 
 ## Kostenpflichtige 3D-Modelle:
@@ -89,12 +89,16 @@ https://www.turbosquid.com/de/3d-models/5-sequoia-trees-3d-model-1151548
 
 
 # Credits
-Auftraggeber/Rechteinhaber: [museum4punkt0](https://www.museum4punkt0.de)
-</br>
+Auftraggeber/Rechteinhaber: [museum4punkt0](https://www.museum4punkt0.de)  
 Entwickler: Matthias Knappe, [EDBYTO](https://edbyto.com)
 
+## Lizenz  
+Vulkananimation Copyright © 2019 Senckenberg Museum für Naturkunde Görlitz; erstellt durch Matthias Knappe (EDBYTO), im Rahmen des Verbundprojekts museum4punkt0.
 
-# Lizenz
-Copyright © 2019, museum4punkt0 / Matthias Knappe, EDBYTO
+Dieses Programm ist freie Software: Sie können es unter den Bedingungen der GNU General Public License, wie von der Free Software Foundation veröffentlicht, weitergeben und/oder modifizieren, entweder in Version 3 der Lizenz oder (nach Ihrer Wahl) in einer späteren Version.
 
-Dieser Code unterliegt der GNU General Public License v3.0. Näheres siehe [hier](https://github.com/museum4punkt0/Vulkananimation/blob/main/LICENSE).
+Dieses Programm wird in der Hoffnung verteilt, dass es nützlich ist, aber OHNE JEGLICHE GARANTIE; sogar ohne die stillschweigende Garantie der MARKTREIFE oder der EIGNUNG FÜR EINEN BESTIMMTEN ZWECK. Siehe die GNU General Public License für weitere Details.
+
+Sie sollten zusammen mit diesem Programm ein Exemplar der GNU General Public License erhalten haben. Falls nicht, siehe https://www.gnu.org/licenses/.
+
+[![LICENSE.md](https://img.shields.io/badge/License-GPLv3-blue.svg)](/LICENSE.md)
