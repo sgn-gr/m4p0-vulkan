@@ -5,6 +5,9 @@
 - [Kurzbeschreibung](#Kurzbeschreibung)
   - [Förderhinweis](#Förderhinweis)
 - [Installation](#Installation)
+  - [Kostenpflichtige Plugins (unity AssetStore)](#kostenpflichtige-plugins-unity-assetstore)
+	- [Kostenfreie Plugins (unity AssetStore)](#kostenfreie-plugins-unity-assetstore)
+	- [Kostenpflichtige 3D-Modelle](#kostenpflichtige-3d-modelle)
 - [Benutzung](#Benutzung)
 - [Credits](#Credits)
 - [Lizenz](#Lizenz)
@@ -26,7 +29,7 @@ Die 3D-Animation "Entstehung des Landeskrone Vulkans" wurde mit [unity]( https:/
 
 Um den Code innerhalb von Unity zu starten bedarf es folgender zusätzlicher Komponenten.
 
-### Kostenpflichtige Plugins (unity AssetStore):
+### Kostenpflichtige Plugins (unity AssetStore)
 
 #### Tools
 
@@ -64,7 +67,7 @@ https://assetstore.unity.com/packages/3d/vegetation/oak-forest-environment-15331
 https://assetstore.unity.com/packages/3d/environments/tropical-forest-pack-49391
 
 
-### Kostenfreie Plugins (unity AssetStore):
+### Kostenfreie Plugins (unity AssetStore)
 
 #### 3D
 
@@ -74,11 +77,9 @@ https://assetstore.unity.com/packages/3d/environments/tropical-forest-pack-49391
 
 1. Book Of The Dead: Environment https://assetstore.unity.com/packages/essentials/tutorial-projects/book-of-the-dead-environment-121175
 
-### Kostenpflichtige 3D-Modelle:
+### Kostenpflichtige 3D-Modelle
 
-1. 5 + 5 Sequoia-Bäume 3D-Modell:
-https://www.turbosquid.com/de/3d-models/5-sequoia-trees-3d-model-1151548
-
+1. 5 + 5 Sequoia-Bäume 3D-Modell: https://www.turbosquid.com/de/3d-models/5-sequoia-trees-3d-model-1151548
 
 ## Credits
 Auftraggeber/Rechteinhaber: [museum4punkt0](https://www.museum4punkt0.de)  
