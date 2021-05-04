@@ -1,40 +1,32 @@
 # Vulkananimation
 
-### Inhaltsverzeichnis
+## Inhaltsverzeichnis
 
-- [Beschreibung](#Beschreibung)
 - [Kurzbeschreibung](#Kurzbeschreibung)
-- [Entstehungskontext](#Entstehungskontext)
-- [Förderung](#Förderung)
-- [Installation und Benutzung](#Installation-und-Benutzung)
+  - [Förderhinweis](#Förderhinweis)
+- [Installation](#Installation)
+- [Benutzung](#Benutzung)
 - [Credits](#Credits)
 - [Lizenz](#Lizenz)
 
 
-# Beschreibung
+## Kurzbeschreibung
+Die Animation visualisiert die geologische Entwicklung des einstigen Vulkans bis zum heutigen Kegelberg über einen Zeitraum von 32 Millionen Jahre.
+
 Beginnend mit dem heutigen Abbild des Bergs, reisen wir augenblickblich 32 Millionen Jahre zurück und bekommen die im Profil dargestellte geologische Situation zu Gesicht. Dabei wird die Landschaft so naturgetreu wie möglich animiert mit damals vorherrschendem Klima und Geräuschen der Vulkantätigkeiten, die das Erlebnis verstärken. Aus der Vogelperspektive sieht die Betrachterin bzw. der Betrachter, wie die Landschaft sich allmählich verändert: Anfängliche Urwälder verschwinden und mehrere Explosionen formen den vulkanischen Kegel. Darin füllen sich mehrmals Lavaseen, die immer wieder abkühlen. Durch weitere Jahrmillionen, die von Erschütterungen und Erosionen geprägt sind, entsteht schließlich die heutige Form des Berges.
 
 Die Animation wurde mit Unity erstellt und liegt als 4K-Video im MP4 Format vor.
 
-Die Entwicklung der Animation wurde beauftragt von museum4punkt0 - Teilprojekt Zentrale wissenschaftliche Projektsteuerung.
-
-
-# Kurzbeschreibung
-Die Animation visualisiert die geologische Entwicklung des einstigen Vulkans bis zum heutigen Kegelberg über einen Zeitraum von 32 Millionen Jahre.
-
-# Entstehungskontext
-Diese Animation ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft.
+### Förderhinweis
+Diese Animation ist Teil des Projektes museum4punkt0 - Digitale Strategien für das Museum der Zukunft, Teilprojekt "Vulkananimation". Das Projekt museum4punkt0 wird gefördert durch die  Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages.  
 Weitere Informationen: www.museum4punkt0.de
 
-# Förderung
-Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages.
-
-# Installation und Benutzung
+## Installation
 Die 3D-Animation "Entstehung des Landeskrone Vulkans" wurde mit [unity]( https://unity.com/) 2020.1.9f1 erstellt.
 
 Um den Code innerhalb von Unity zu starten bedarf es folgender zusätzlicher Komponenten.
 
-## Kostenpflichtige Plugins (unity AssetStore):
+### Kostenpflichtige Plugins (unity AssetStore):
 
 ### Tools
 
@@ -72,7 +64,7 @@ https://assetstore.unity.com/packages/3d/vegetation/oak-forest-environment-15331
 https://assetstore.unity.com/packages/3d/environments/tropical-forest-pack-49391
 
 
-## Kostenfreie Plugins (unity AssetStore):
+### Kostenfreie Plugins (unity AssetStore):
 
 ### 3D
 
@@ -82,13 +74,13 @@ https://assetstore.unity.com/packages/3d/environments/tropical-forest-pack-49391
 
 1. Book Of The Dead: Environment https://assetstore.unity.com/packages/essentials/tutorial-projects/book-of-the-dead-environment-121175
 
-## Kostenpflichtige 3D-Modelle:
+### Kostenpflichtige 3D-Modelle:
 
 1. 5 + 5 Sequoia-Bäume 3D-Modell:
 https://www.turbosquid.com/de/3d-models/5-sequoia-trees-3d-model-1151548
 
 
-# Credits
+## Credits
 Auftraggeber/Rechteinhaber: [museum4punkt0](https://www.museum4punkt0.de)  
 Entwickler: Matthias Knappe, [EDBYTO](https://edbyto.com)
 
