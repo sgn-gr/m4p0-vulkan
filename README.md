@@ -1,20 +1,15 @@
 # Vulkananimation
 
 ## Inhaltsverzeichnis
-
-- [Kurzbeschreibung](#Kurzbeschreibung)
-  - [Förderhinweis](#Förderhinweis)
+* [Kurzbeschreibung](#Kurzbeschreibung)
+	* [Förderhinweis](#Förderhinweis)
 * [Installation](#Installation)
 	* [Kostenpflichtige Plugins (unity AssetStore)](#kostenpflichtige-plugins-unity-assetstore)
 	* [Kostenfreie Plugins (unity AssetStore)](#kostenfreie-plugins-unity-assetstore)
 	* [Kostenpflichtige 3D-Modelle](#kostenpflichtige-3d-modelle)
-- [Installation](#Installation)
-  - [Kostenpflichtige Plugins (unity AssetStore)](#kostenpflichtige-plugins-unity-assetstore)  
-  - [Kostenfreie Plugins (unity AssetStore)](#kostenfreie-plugins-unity-assetstore)  
-  - [Kostenpflichtige 3D-Modelle](#kostenpflichtige-3d-modelle)  
-- [Benutzung](#Benutzung)
-- [Credits](#Credits)
-- [Lizenz](#Lizenz)
+* [Benutzung](#Benutzung)
+* [Credits](#Credits)
+* [Lizenz](#Lizenz)
 
 
 ## Kurzbeschreibung
