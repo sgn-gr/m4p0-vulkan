@@ -83,19 +83,19 @@ https://assetstore.unity.com/packages/3d/environments/tropical-forest-pack-49391
 ## Benutzung
 
 ### Video-Tutorials (youtube.com)
-1. [Entstehung der Landeskrone, Dokumentation Teil 1](https://www.youtube.com/)
-2. [Entstehung der Landeskrone, Dokumentation Teil 2](https://www.youtube.com/)
-3. [Entstehung der Landeskrone, Dokumentation Teil 3](https://www.youtube.com/)
-4. [Entstehung der Landeskrone, Dokumentation Teil 4](https://www.youtube.com/)
-5. [Entstehung der Landeskrone, Dokumentation Teil 5](https://www.youtube.com/)
-6. [Entstehung der Landeskrone, Dokumentation Teil 6](https://www.youtube.com/)
+1. [Entstehung der Landeskrone, Dokumentation Teil 1](https://youtu.be/Wai5bkZZq0U)
+2. [Entstehung der Landeskrone, Dokumentation Teil 2](https://youtu.be/KVXDur58r1U)
+3. [Entstehung der Landeskrone, Dokumentation Teil 3](https://youtu.be/VbvF0c6RMFc)
+4. [Entstehung der Landeskrone, Dokumentation Teil 4](https://youtu.be/B61N9vefauw)
+5. [Entstehung der Landeskrone, Dokumentation Teil 5](https://youtu.be/MrKFEFl3hoE)
+6. [Entstehung der Landeskrone, Dokumentation Teil 6](https://youtu.be/nsPj5WEEn0w)
 
 ## Credits
-Auftraggeber/Rechteinhaber: [museum4punkt0](https://www.museum4punkt0.de)  
-Entwickler: Matthias Knappe, [EDBYTO](https://edbyto.com)
+Auftraggeber/Rechteinhaber: [Senckenberg Gesellschaft für Naturforschung] (https://senckenberg.de/)  
+Entwicklung/Urheber: Matthias Knappe, [EDBYTO](https://edbyto.com)
 
 ## Lizenz  
-Vulkananimation Copyright © 2019 Senckenberg Museum für Naturkunde Görlitz; erstellt durch Matthias Knappe (EDBYTO), im Rahmen des Verbundprojekts museum4punkt0.
+Vulkananimation Copyright © 2019 Senckenberg Gesellschaft für Naturforschung; erstellt durch Matthias Knappe (EDBYTO), im Rahmen des Verbundprojekts museum4punkt0.
 
 Dieses Programm ist freie Software: Sie können es unter den Bedingungen der GNU General Public License, wie von der Free Software Foundation veröffentlicht, weitergeben und/oder modifizieren, entweder in Version 3 der Lizenz oder (nach Ihrer Wahl) in einer späteren Version.
 
