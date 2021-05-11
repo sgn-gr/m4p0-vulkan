@@ -83,15 +83,15 @@ https://assetstore.unity.com/packages/3d/environments/tropical-forest-pack-49391
 ## Benutzung
 
 ### Video-Tutorials (youtube.com)
-1. [Entstehung der Landeskrone, Dokumentation Teil 1](https://youtu.be/Wai5bkZZq0U){:target="_blank"}
-2. [Entstehung der Landeskrone, Dokumentation Teil 2](https://youtu.be/KVXDur58r1U){target="_blank"}
-3. [Entstehung der Landeskrone, Dokumentation Teil 3](https://youtu.be/VbvF0c6RMFc/?target=_blank)
-4. [Entstehung der Landeskrone, Dokumentation Teil 4](https://youtu.be/B61N9vefauw target="_blank")
-5. [Entstehung der Landeskrone, Dokumentation Teil 5](https://youtu.be/MrKFEFl3hoE" target="_blank)
+1. [Entstehung der Landeskrone, Dokumentation Teil 1](https://youtu.be/Wai5bkZZq0U)
+2. [Entstehung der Landeskrone, Dokumentation Teil 2](https://youtu.be/KVXDur58r1U)
+3. [Entstehung der Landeskrone, Dokumentation Teil 3](https://youtu.be/VbvF0c6RMFc)
+4. [Entstehung der Landeskrone, Dokumentation Teil 4](https://youtu.be/B61N9vefauw)
+5. [Entstehung der Landeskrone, Dokumentation Teil 5](https://youtu.be/MrKFEFl3hoE)
 6. [Entstehung der Landeskrone, Dokumentation Teil 6](https://youtu.be/nsPj5WEEn0w)
 
 ## Credits
-Auftraggeber/Rechteinhaber: [Senckenberg Gesellschaft für Naturforschung] (https://senckenberg.de/)  
+Auftraggeber/Rechteinhaber: [Senckenberg Gesellschaft für Naturforschung](https://senckenberg.de/)  
 Entwicklung/Urheber: Matthias Knappe, [EDBYTO](https://edbyto.com)
 
 ## Lizenz  
