@@ -83,7 +83,7 @@ https://assetstore.unity.com/packages/3d/environments/tropical-forest-pack-49391
 ## Benutzung
 
 ### Video-Tutorials (youtube.com)
-1. [Entstehung der Landeskrone, Dokumentation Teil 1](https://youtu.be/Wai5bkZZq0U)
+1. [Entstehung der Landeskrone, Dokumentation Teil 1](https://youtu.be/Wai5bkZZq0U){:target="_blank"}
 2. [Entstehung der Landeskrone, Dokumentation Teil 2](https://youtu.be/KVXDur58r1U)
 3. [Entstehung der Landeskrone, Dokumentation Teil 3](https://youtu.be/VbvF0c6RMFc)
 4. [Entstehung der Landeskrone, Dokumentation Teil 4](https://youtu.be/B61N9vefauw)
